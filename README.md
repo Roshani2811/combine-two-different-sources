@@ -1,9 +1,1 @@
-COMPANY: CODTECH IT SOLUTION
-NAME: ROSHANI SANGANNAVAR
-INTERN ID: CITS0D643
-DOMAIN: POWER BI
-DURATION: 4 WEEKS
-MENTOR: NEELA SANTOSH
-# I REALLY LIKE TO WORK WITH CODETECH. I HAD A GREAT EXPERIENCE WITH CODETECH
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7dbaa90e-aaaf-4f3d-a99a-b19112407734" />
-# combine-two-different-sources
+
